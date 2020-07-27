@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Pepe the Frog
+          MSA 2020
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aka.ms/nzmsawebsite"
           target="_blank"
           rel="noopener noreferrer"
         >
-          FeelsBadMan
+          MSA website
         </a>
       </header>
     </div>
