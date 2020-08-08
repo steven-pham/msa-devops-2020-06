@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://github.com/steven-pham/msa-devops-2020-06"
+          href="https://www.youtube.com/watch?v=i8ZW94SWchE"
           target="_blank"
           rel="noopener noreferrer"
         >
