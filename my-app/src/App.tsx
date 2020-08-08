@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './new_logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.youtube.com/watch?v=i8ZW94SWchE"
+          href="https://aka.ms/nzmsawebsite"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dancing doggie XD
+          MSA websites babay
         </a>
       </header>
     </div>
