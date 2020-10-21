@@ -6,4 +6,4 @@ URL of my website: https://msa-devops1.azurewebsites.net
 The release deployment to Azure is made continuous whenever new commits are made to the master branch, this will help me be able to add new features to my web app.
 
 
-**Web Application Description**: I changed the default logo to an masking emoji svg (because it's corona time). I changed the hyperlink to a youtube page and also changed the hyperlink's name to match the content of the youtube page.
+**Web Application Description**: I changed the default logo to an masking emoji svg. I changed the hyperlink to a youtube page and also changed the hyperlink's name to match the content of the youtube page.
